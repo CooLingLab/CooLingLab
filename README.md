@@ -12,7 +12,10 @@
 
 于是，我开始构建 **[CoolFlow by Cooling](https://github.com/CooLingLab/CoolFlow)**：一套面向个人开发者的 **AI Software Development SOP**。它帮助人在把大量工作交给 AI 的同时，仍然清楚项目应该先做什么、现在实际处于什么状态、遇到问题如何恢复，以及怎样证明成果真正可用。
 
-**CoolFlow Golden Rules**
+### [CoolFlow Golden Rules](https://github.com/CooLingLab/CoolFlow/blob/feat/v0.1-standard-and-init/methodology/golden-rules.md)
+
+**The Four Golden Rules for AI-Assisted Software Development**  
+*By Cooling · Creator of CoolFlow*
 
 1. **Keep It Working → Ship Small → Improve** — 保持正常运行、小步交付、持续改进
 2. **Know the Actual State** — 始终知晓实际状态
