@@ -21,6 +21,8 @@ That thinking inspired **[CoolFlow by Cooling](https://github.com/CooLingLab/Coo
 **[The Four Golden Rules for AI-Assisted Software Development](https://github.com/CooLingLab/CoolFlow/blob/feat/v0.1-standard-and-init/methodology/golden-rules.md)**  
 *By Cooling · Creator of CoolFlow*
 
+*Inspired by the Airbus Golden Rules for Pilots; adapted by Cooling for human-led, AI-assisted software development. These are independent software-development principles, not Airbus guidance.*
+
 1. **Keep It Working → Ship Small → Improve** — Engineering priorities
 2. **Know the Actual State** — Situational awareness
 3. **Keep a Way Back** — Version control and recovery
