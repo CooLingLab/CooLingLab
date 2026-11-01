@@ -1,59 +1,56 @@
-# 柯凌 · Cooling
+# Cooling
 
-> Building practical tools for quantitative trading, automation, and AI.
+**Pilot · Independent Builder · AI-Assisted Development · Quantitative Research**
 
-你好，我是柯凌（Cooling），一名飞行员，也是一名持续探索量化交易、自动化与 AI 开发的独立构建者。
+*From the cockpit to code.*
 
-这里是我的 GitHub 主页，记录我正在构建的系统、工具和实验。
+English · [简体中文](#中文简介)
 
-## From the Cockpit to Code · 从驾驶舱到代码
+I'm **Cooling**, a pilot and an independent builder exploring the intersection of **AI, software engineering, quantitative trading, and automation**. I use this space to share practical tools, experiments, and ideas as they evolve.
 
-航空 SOP（标准操作程序）强调明确优先级、保持态势感知、管理风险，以及用实际证据确认系统按预期运行。我希望把这些思维方式带入 AI 软件开发。
+## From the Cockpit to Code
 
-于是，我开始构建 **[CoolFlow by Cooling](https://github.com/CooLingLab/CoolFlow)**：一套面向个人开发者的 **AI Software Development SOP**。它帮助人在把大量工作交给 AI 的同时，仍然清楚项目应该先做什么、现在实际处于什么状态、遇到问题如何恢复，以及怎样证明成果真正可用。
+Aviation relies on clear priorities, situational awareness, standard operating procedures (SOPs), and the ability to respond when things do not go as expected.
 
-### [CoolFlow Golden Rules](https://github.com/CooLingLab/CoolFlow/blob/feat/v0.1-standard-and-init/methodology/golden-rules.md)
+I believe these ideas are increasingly relevant to AI-assisted software development. As AI agents take on more of the implementation work, the human developer still needs to understand **what matters first, what is actually happening, how to recover, and what evidence proves the result works**.
 
-**The Four Golden Rules for AI-Assisted Software Development**  
+That thinking inspired **[CoolFlow by Cooling](https://github.com/CooLingLab/CoolFlow)** — a lightweight **AI Software Development SOP** for people building software with AI. It is a development methodology and documentation standard, not a mandatory agent harness or workflow engine.
+
+## CoolFlow Golden Rules
+
+**[The Four Golden Rules for AI-Assisted Software Development](https://github.com/CooLingLab/CoolFlow/blob/feat/v0.1-standard-and-init/methodology/golden-rules.md)**  
 *By Cooling · Creator of CoolFlow*
 
-1. **Keep It Working → Ship Small → Improve** — 保持正常运行、小步交付、持续改进
-2. **Know the Actual State** — 始终知晓实际状态
-3. **Keep a Way Back** — 始终保留可恢复的退路
-4. **Prove It Works** — 以真实结果证明有效
+1. **Keep It Working → Ship Small → Improve** — Engineering priorities
+2. **Know the Actual State** — Situational awareness
+3. **Keep a Way Back** — Version control and recovery
+4. **Prove It Works** — Evidence-based verification
 
-*Inspired by aviation SOP thinking; adapted for human-led, AI-assisted software development.*
+The principles are designed for **human developers** and can be applied beyond CoolFlow itself.
 
-## Focus
+## What I'm Building
 
-- Quantitative trading systems and research infrastructure
-- Python automation and data workflows
-- Practical AI-assisted development
+- **[CoolFlow by Cooling](https://github.com/CooLingLab/CoolFlow)** — An aviation-inspired AI development methodology, currently in **v0.1 draft**. [See the draft proposal](https://github.com/CooLingLab/CoolFlow/pull/1).
+- **Quantitative trading systems** — Research infrastructure and systematic workflows, including private projects.
+- **Python automation & data tools** — Practical scripts, experiments, and repeatable workflows.
 
-## Currently
+More projects will be shared when they are ready.
 
-- Improving a private quantitative trading system
-- Building reliable tools through continuous testing and iteration
-- Developing CoolFlow, an AI software development SOP inspired by aviation
-- Organizing selected projects for public release
+## How I Work
 
-## Selected work
+- Build for real use before adding complexity.
+- Prefer reproducible workflows and verifiable results.
+- Keep experiments transparent, documented, and open to revision.
 
-- **[CoolFlow by Cooling](https://github.com/CooLingLab/CoolFlow)** — An AI software development methodology and lightweight documentation standard inspired by aviation SOPs. **In development**; see the [v0.1 draft PR](https://github.com/CooLingLab/CoolFlow/pull/1).
+## 中文简介
 
-Other public projects will be added here as they become ready.
+我是 **Cooling**，一名飞行员，也是一名探索 **AI 软件开发、量化交易与自动化** 的独立开发者。
 
-## Principles
+我希望把航空 SOP 中的**优先级管理、态势感知、安全与异常处置思维**带入 AI 软件开发。因此，我正在构建 **[CoolFlow by Cooling](https://github.com/CooLingLab/CoolFlow)**：一套面向人类开发者的 AI 软件开发方法论与轻量文档规范，让人在充分利用 AI 的同时，仍然能够理解项目状态、保留恢复能力，并通过实际证据验证成果。
 
-- Make it useful before making it complex
-- Prefer reproducible workflows
-- Keep experiments honest and documented
+CoolFlow 目前仍处于 v0.1 开发阶段。上方的 **Golden Rules** 是这套方法论的核心理念之一。
 
 ## Explore
 
-- [Repositories](https://github.com/CooLingLab?tab=repositories)
+- [GitHub repositories](https://github.com/CooLingLab?tab=repositories)
 - [Contribution activity](https://github.com/CooLingLab?tab=overview)
-
----
-
-Thanks for visiting.
